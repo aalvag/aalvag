@@ -10,9 +10,9 @@
                                   || ||
                                  ooO Ooo
 
-## I'm a Developer Trainee!
+## I'm a Full Stack Web Developer!
 
-- 🔭 I’m currently studying at Henry academy @SoyHenry
+- 🔭 I’m currently learning new Technologies
 - 🌱 I’m currently Working Harder Than Ugly Stripper 🤣
 - ⚡ Fun fact: I love lifting weights, Dead Lift Is Not a Crime
 
