@@ -10,7 +10,7 @@
                                   || ||
                                  ooO Ooo
 
-## I'm a Full Stack Web Developer!
+## I'm Full Stack Web Developer!
 
 - 🔭 I’m currently learning new Technologies
 - 🌱 I’m currently Working Harder Than Ugly Stripper 🤣
