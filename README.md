@@ -3,7 +3,7 @@
 I'm a web developer from the Argentina, who loves open source
 I mainly code in JavaScript
 I fell in love with Next.js, React, React Native, and so many other modern web frameworks.
-I am always learning.
+I am always learning
 
 ## 🌐Socials
 
