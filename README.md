@@ -28,3 +28,5 @@ I am always learning
 ---
 
 ![](https://komarev.com/ghpvc/?username=aalvag&label=Visitors+Count&color=brightgreen)
+
+![](https://hit.yhype.me/github/profile?user_id=48391594)
