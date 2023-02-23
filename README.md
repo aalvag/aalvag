@@ -1,9 +1,6 @@
 # 💫About Me :
 
-I'm a web developer from the Argentina, who loves open source
-I mainly code in JavaScript
-I fell in love with Next.js, React, React Native, and so many other modern web frameworks.
-I am always learning
+Hi there! I'm a web developer based in Argentina with a passion for open source. My primary focus is on JavaScript development, and I have a particular affinity for working with modern web frameworks like Next.js, React, and React Native. I'm constantly seeking to expand my knowledge and skills to stay up-to-date with the latest technologies and trends.
 
 ## 🌐Socials
 
