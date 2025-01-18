@@ -23,7 +23,7 @@ Hi there! I'm a web developer based in Argentina with a passion for open source.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
+![Codewars](https://github.r2v.ch/codewars?user=eldeyvid)
 ![](https://komarev.com/ghpvc/?username=aalvag&label=Visitors+Count&color=brightgreen)
 
 ![](https://hit.yhype.me/github/profile?user_id=48391594)
